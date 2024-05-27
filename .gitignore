@@ -2,3 +2,4 @@ yolov8x.pt
 __pycache__/
 training/
 runs/
+output_videos/
