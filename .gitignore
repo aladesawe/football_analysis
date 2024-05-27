@@ -3,3 +3,4 @@ __pycache__/
 training/
 runs/
 output_videos/
+models/
