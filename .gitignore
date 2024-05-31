@@ -2,5 +2,6 @@ yolov8x.pt
 __pycache__/
 training/
 runs/
-output_videos/
+output_videos/*
+!output_videos/cropped_image.jpg
 models/
